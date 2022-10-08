@@ -1,11 +1,10 @@
 Hey there! I'm Mrunali Phad ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
-I like to code since I wrote my first "hello world!" program. I am software developer and designer(solving wicked probelms using code is my hobby).
+I like to code since I wrote my first "hello world!" program. I am software developer and designer (solving wicked probelms using code is my hobby).
 
 ###  💫 About Me! 
 
-- :seedling: Currently I'm Exploring Software development tools and contributing to open-source projects.
-
+- :seedling: Currently I'm learning Software development tools and contributing to open-source projects.
 - :zap: In my free time, I solve problems on leetcode and share my learning on socials.
 
 - :mailbox:If you want any collaboration feel free to mail me at mrunaliphad4@gmail.com
@@ -14,6 +13,18 @@ I like to code since I wrote my first "hello world!" program. I am software deve
 
 
 ### Connect with me:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mrunali-phad-0a970011/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 <p align="left"> <a href="https://www.github.com/Mrunali4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@fabCoder.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrunali-phad-0a970011/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mrunaliphad22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
