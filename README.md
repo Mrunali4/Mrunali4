@@ -1,19 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mrunali Phad
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+I am  Mrunali Phad
 ====================================================================================================================================
 
-Software Developer and Designer
--------------------------------
 
-I have loved coding since I wrote my first "hello world!" program. My programming journey started from C but Now Oops is my favorite thing to work-on. Currently I'm Exploring Software development tools and contributing to open-source projects.
+I like to code since I wrote my first "hello world!" program. My programming journey started from C but Now Oops is my favorite thing to work-on. 
 
-* ✉️  You can contact me at [mrunaliphad4@gmail.com](mailto:mrunaliphad4@gmail.com)
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on to entry level opportunity in Software development.
-* ⚡  Apart from coding I like to connect new people.
+### :woman_technologist: About Me :
 
-<a href="https://www.twitter.com/Mrunaliphad22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Mrunaliphad22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+- :seedling: Currently I'm Exploring Software development tools and contributing to open-source projects.
+
+- :v: I'm open to entry-level opportunities in software development.
+
+- :zap: In my free time, I solve problems on leetcode and share my learning on socials.
+
+- :mailbox:If you want any collaboration feel free to mail me at mrunaliphad4@gmail.com
+
+
+
+### Socials
+
+
+
+
+<p align="left"> <a href="https://www.github.com/Mrunali4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@fabCoder.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrunali-phad-0a970011/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mrunaliphad22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
 
 ### Skills
 
@@ -30,18 +41,14 @@ src="https://img.shields.io/twitter/follow/Mrunaliphad22?logo=twitter&style=for-
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/Mrunali4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@fabCoder.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mrunali-phad-0a970011/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Mrunaliphad22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mrunali4"><img src="https://github-readme-stats.vercel.app/api?username=Mrunali4&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mrunali4's GitHub stats" /></a>
+<a href="http://www.github.com/Mrunali4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunali4&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Mrunali4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunali4&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Mrunali4"><img src="https://activity-graph.herokuapp.com/graph?username=Mrunali4&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="http://www.github.com/Mrunali4"><img src="https://activity-graph.herokuapp.com/graph?username=Mrunali4&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Mrunali4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunali4&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Mrunali4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunali4&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
