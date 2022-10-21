@@ -1,6 +1,6 @@
 Hi there! I'm Mrunali Phad ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif).
 ====================================================================================================================================
-I like to code since I wrote My first "hello world!" program. Solve to wicked probelms by Code is My hobby. I have started My coding journey from C (language). I mostly worked on Java and Python. I'm eager to create a position for myself in software industry.
+I am a Front End developer with rookie experience of building websites and web applications. I specialize in HTML,CSS , JavaScript and C#. I also have experience working with Java, Python,SQL server . Take a look at my work or get in touch!
 
 ## :mailbox: Connect with me!
  <a href="https://www.twitter.com/Mrunaliphad22" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="auto" /></a> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  width="auto" /></a> <a href="https://www.linkedin.com/in/mrunali-phad-0a970011/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="auto" /></a> 
